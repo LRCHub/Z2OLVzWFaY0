@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "処救生",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2025-12-01T02:07:04.631480Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "処救生",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/01_処救生_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "処救生",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/02_処救生_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "処救生",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/03_処救生_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "処救生",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/04_処救生_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "処救生",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/pl_処救生_MyGO!!!!!.txt"
+    }
+  ]
+}
